@@ -19,13 +19,13 @@
 
 ## Contatos/Redes Sociais: 
 
-<a href = "mailto:carloseduardoflores903@gmail.com"><img src="https://img.shields.io/badge/OUTLOOK-0000FF?style=for-the-badge&logo=mailboxdotorg&logoColor=white" target="_blank"></a>
+<a href = "mailto:carlos.eduardo.flores903@gmail.com"><img src="https://img.shields.io/badge/OUTLOOK-0000FF?style=for-the-badge&logo=mailboxdotorg&logoColor=white" target="_blank"></a>
 <a href="(https://www.linkedin.com/in/carlos-eduardo-flores-1a6039263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=inspire&logoColor=white" target="_blank"></a>   
 Tel 51 99863-9450
 
 ## Stats: 
 <div align="center">
-  <a href="https://github.com/diegosilvabrixner">
+  <a href="https://github.com/kduflores">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kduflores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kduflores&layout=compact&langs_count=7&theme=dracula"/>
 </div>
